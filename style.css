@@ -83,7 +83,9 @@ footer article {
 }
 footer article p {
 	color: #33373f;
-	padding-top: 100px;
+	width: 70%;
+	bottom: 20px;
+	position: fixed;
 	text-align: center;
 	font: 10px Verdana, Geneva, sans-serif;
 	text-shadow: 1px 1px 1px #ccc;
